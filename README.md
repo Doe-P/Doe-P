@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a front-end and mobile app developer...
+I'm a front-end and mobile app developer at AiF Group in Vientaine, Laos
 
 
 ## 🛠 Skills
