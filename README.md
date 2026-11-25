@@ -9,7 +9,7 @@ Mobile & front-end developer at **AIF Group** in Vientiane, Laos 🇱🇦
 
 - 📱 I build production **Flutter** apps for Android and iOS, from the first screen to store release
 - 🖥️ On the web side I work with **Vue**, **Next.js** and **TypeScript** on admin dashboards and portals
-- 🏗️ I care about clean architecture: clear layers, testable code, and apps that are easy to keep growing
+- 🤖 I focus on AI-assisted development workflows that help me build products with better performance and quality
 - ⚙️ I like automating the boring parts: CI/CD pipelines, OTA updates and release workflows
 
 ## 🛠️ Tech Stack
